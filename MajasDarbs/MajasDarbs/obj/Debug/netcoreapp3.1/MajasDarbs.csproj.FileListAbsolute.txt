@@ -1,0 +1,5 @@
+C:\Projekti\MansProjekts\MajasDarbs\MajasDarbs\obj\Debug\netcoreapp3.1\MajasDarbs.csproj.AssemblyReference.cache
+C:\Projekti\MansProjekts\MajasDarbs\MajasDarbs\obj\Debug\netcoreapp3.1\MajasDarbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekti\MansProjekts\MajasDarbs\MajasDarbs\obj\Debug\netcoreapp3.1\MajasDarbs.AssemblyInfoInputs.cache
+C:\Projekti\MansProjekts\MajasDarbs\MajasDarbs\obj\Debug\netcoreapp3.1\MajasDarbs.AssemblyInfo.cs
+C:\Projekti\MansProjekts\MajasDarbs\MajasDarbs\obj\Debug\netcoreapp3.1\MajasDarbs.csproj.CoreCompileInputs.cache
